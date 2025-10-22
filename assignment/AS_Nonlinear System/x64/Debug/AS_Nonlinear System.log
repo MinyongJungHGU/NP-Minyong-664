@@ -1,0 +1,15 @@
+﻿  Assignment_NonlinearSys _22000664.cpp
+C:\Users\정민용\source\repos\NP\assignment\AS_Nonlinear System\Assignment_NonlinearSys _22000664.cpp(33,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\정민용\source\repos\NP\assignment\AS_Nonlinear System\Assignment_NonlinearSys _22000664.cpp(60,14): error C2143: 구문 오류: ';'이(가) '-' 앞에 없습니다.
+C:\Users\정민용\source\repos\NP\assignment\AS_Nonlinear System\Assignment_NonlinearSys _22000664.cpp(60,15): error C2660: 'zeros': 함수는 0개의 인수를 사용하지 않습니다.
+  C:\Users\정민용\source\repos\NP\include\myMatrix_22000664.h(52,15):
+  'zeros' 선언을 참조하십시오.
+  C:\Users\정민용\source\repos\NP\assignment\AS_Nonlinear System\Assignment_NonlinearSys _22000664.cpp(60,15):
+  인수 목록 '()'을(를) 일치시키는 동안
+  
+C:\Users\정민용\source\repos\NP\assignment\AS_Nonlinear System\Assignment_NonlinearSys _22000664.cpp(60,14): error C2088: '-': struct에 맞지 않습니다.
+C:\Users\정민용\source\repos\NP\assignment\AS_Nonlinear System\Assignment_NonlinearSys _22000664.cpp(65,2): error C2146: 구문 오류: ';'이(가) 'printf' 식별자 앞에 없습니다.
+C:\Users\정민용\source\repos\NP\assignment\AS_Nonlinear System\Assignment_NonlinearSys _22000664.cpp(82,10): error C2065: 'J': 선언되지 않은 식별자입니다.
+C:\Users\정민용\source\repos\NP\assignment\AS_Nonlinear System\Assignment_NonlinearSys _22000664.cpp(82,22): error C2065: 'H': 선언되지 않은 식별자입니다.
+C:\Users\정민용\source\repos\NP\assignment\AS_Nonlinear System\Assignment_NonlinearSys _22000664.cpp(82,34): error C2065: 'F': 선언되지 않은 식별자입니다.
+C:\Users\정민용\source\repos\NP\assignment\AS_Nonlinear System\Assignment_NonlinearSys _22000664.cpp(82,47): error C2065: 'Z': 선언되지 않은 식별자입니다.

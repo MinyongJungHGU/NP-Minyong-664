@@ -1,0 +1,5 @@
+﻿  myNP_22000664.cpp
+  TU_Differentiation_main.cpp
+  코드를 생성하고 있습니다...
+TU_Differentiation_main.obj : error LNK2019: "void __cdecl gradientFunc(double (__cdecl*)(double),double * const,double * const,int)" (?gradientFunc@@YAXP6ANN@ZQEAN1H@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\정민용\source\repos\NP\tutorial\TU_differentiation\x64\Debug\TU_differentiation.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

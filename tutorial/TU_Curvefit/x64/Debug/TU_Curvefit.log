@@ -1,0 +1,5 @@
+﻿  myMatrix_22000664.cpp
+  Assignment_Curvefit_22000664.cpp
+  코드를 생성하고 있습니다...
+C:\Users\정민용\source\repos\NP\include\myMatrix_22000664.cpp(630): warning C4715: 'eigvec': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  TU_Curvefit.vcxproj -> C:\Users\정민용\source\repos\NP\tutorial\TU_Curvefit\x64\Debug\TU_Curvefit.exe
