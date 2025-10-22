@@ -1,1 +1,0 @@
-# NP-Minyong-664
